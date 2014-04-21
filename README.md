@@ -1,8 +1,9 @@
 Objectives
 ==========
 
-  * Create the bare minimum project structure so that `rails console` and `rails server` work as expected.
-  * Use standard rails paths and files
+  * Figure out the bare minimum project structure so that `rails console` and `rails server` work as expected.
+  * Use standard rails paths and files.
+  * __No expectation for use in the real world.__
 
 Why?
 ====
