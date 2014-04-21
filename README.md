@@ -13,7 +13,7 @@ Code is technical debt. Every line of code in your project is your responsibilit
 A brand new rails (4.1.0) directory contains:
 
   * 54 files, 38 directories
-  * 759 LOC (24,370 bytes) excluding Gemfile.lock
+  * 759 LOC (24,370 bytes) excluding Gemfile.lock (via `find * -type f | xargs wc`)
 
 
 Steps
