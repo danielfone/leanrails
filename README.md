@@ -18,11 +18,12 @@ A brand new rails (4.1.0) directory contains:
 Notes
 =====
 
+  * `bundle init`
   * Add rails to gem file
   * rails command doesnt think we're in an app
   * railsties/lib/app_rails_loader suggests we need rails binstubs. OK!
   * Copy binstub from old project, copy required files
-  * Remove bundler auto-require
+  * Remove bundler auto-require in boot.rb (why isn't this just called bundle_setup.rb?)
   * Trim application to only what's needed
 
 Result
